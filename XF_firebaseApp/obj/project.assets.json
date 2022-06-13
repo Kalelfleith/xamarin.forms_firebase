@@ -1351,11 +1351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj",
+      "projectUniqueName": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj",
       "projectName": "XF_firebaseApp",
-      "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj",
+      "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj",
       "packagesPath": "/Users/usuario/.nuget/packages/",
-      "outputPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/obj/",
+      "outputPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/usuario/.config/NuGet/NuGet.Config"

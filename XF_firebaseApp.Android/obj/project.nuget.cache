@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x5/C9LZ4YTTEjIK+hllHcnq/NTnNY8cR+FAQ2VNv9ouT4Qa4Wqog6UDqVXOxsisOvugV1Ly6p6h57eVcYWPR5g==",
+  "dgSpecHash": "p8ri9tLTuzxyl3lw5UXRZ2sb6jmcbvN5i07B0nWZD7gSNEx8RFipHSP3mjQd9RvaskDN+gHrLRFk4+Ujunjb7Q==",
   "success": true,
-  "projectFilePath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.Android/XF_firebaseApp.Android.csproj",
+  "projectFilePath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp.Android/XF_firebaseApp.Android.csproj",
   "expectedPackageFiles": [
     "/Users/usuario/.nuget/packages/firebasedatabase.net/4.0.7/firebasedatabase.net.4.0.7.nupkg.sha512",
     "/Users/usuario/.nuget/packages/litedb/4.1.4/litedb.4.1.4.nupkg.sha512",

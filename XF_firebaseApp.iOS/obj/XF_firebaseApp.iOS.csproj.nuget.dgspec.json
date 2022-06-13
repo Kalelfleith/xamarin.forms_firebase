@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj": {}
+    "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj": {}
   },
   "projects": {
-    "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj": {
+    "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj",
+        "projectUniqueName": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj",
         "projectName": "XF_firebaseApp.iOS",
-        "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj",
+        "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp.iOS/XF_firebaseApp.iOS.csproj",
         "packagesPath": "/Users/usuario/.nuget/packages/",
-        "outputPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.iOS/obj/",
+        "outputPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj": {
-                "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj"
+              "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj": {
+                "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj"
               }
             }
           }
@@ -59,14 +59,14 @@
         }
       }
     },
-    "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj": {
+    "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj",
+        "projectUniqueName": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj",
         "projectName": "XF_firebaseApp",
-        "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/XF_firebaseApp.csproj",
+        "projectPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp.csproj",
         "packagesPath": "/Users/usuario/.nuget/packages/",
-        "outputPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/XF_firebaseApp/obj/",
+        "outputPath": "/Users/usuario/Documents/Projetos/xamarin.forms_firebase/XF_firebaseApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/usuario/.config/NuGet/NuGet.Config"
